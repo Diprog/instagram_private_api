@@ -2,10 +2,10 @@
 class Constants(object):
     """Constants holder class that stores the bulk of the fixed strings used in the library."""
 
-    IG_SIG_KEY = '19ce5f445dbfd9d29c59dc2a78c616a7fc090a8e018b9267bc4240a30244c53b'
+    IG_SIG_KEY = 'c36436a942ea1dbb40d7f2d7d45280a620d991ce8c62fb4ce600f0a048c32c11'
     IG_CAPABILITIES = '3brTvw=='
     SIG_KEY_VERSION = '4'
-    APP_VERSION = '76.0.0.15.395'
+    APP_VERSION = '107.0.0.27.121'
     APPLICATION_ID = '567067343352427'
     FB_HTTP_ENGINE = 'Liger'
 
@@ -17,7 +17,7 @@ class Constants(object):
     PHONE_DPI = '640dpi'
     PHONE_RESOLUTION = '1440x2560'
     PHONE_CHIPSET = 'samsungexynos8890'
-    VERSION_CODE = '138226743'
+    VERSION_CODE = '168361634'
 
     USER_AGENT_FORMAT = \
         'Instagram {app_version} Android ({android_version:d}/{android_release}; ' \
